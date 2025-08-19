@@ -1,4 +1,4 @@
-# Olá! Eu sou o Leo 👋
+# Olá! Eu sou Leonardo Latzke!
 
 Sou um desenvolvedor apaixonado por tecnologia, com experiência em desenvolvimento web e software. Trabalho com foco em criar soluções eficientes e bem estruturadas, utilizando tecnologias modernas.
 
@@ -24,7 +24,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com experiência em desenvolvime
 
 ## 📫 Como me encontrar
 
-- LinkedIn: [linkedin.com/in/LeoLatzke](https://www.linkedin.com/in/LeonardoLatzke) 
+- LinkedIn: [linkedin.com/in/LeonardoLatzke](https://www.linkedin.com/in/LeonardoLatzke) 
 - Email: leonardolatzke@icloud.com
 ---
 
